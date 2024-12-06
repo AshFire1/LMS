@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/user.controller.ts","./src/database/dbConnect.ts","./src/models/user.model.ts","./src/routes/user.route.ts","./src/utils/generateToken.ts"],"version":"5.7.2"}
